@@ -1,0 +1,223 @@
+2021-09-28 23:07:26,552 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3717 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:07:26,555 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:07:28,032 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:07:28,042 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:07:28,043 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:07:28,044 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:07:28,118 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:07:28,118 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1467 ms
+2021-09-28 23:07:28,707 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:07:28,727 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:07:28,741 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 2.876 seconds (JVM running for 3.463)
+2021-09-28 23:07:31,851 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-6] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:07:31,852 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-6] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:07:31,856 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-6] Completed initialization in 3 ms
+2021-09-28 23:07:31,881 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-6] inside test
+2021-09-28 23:09:37,722 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3750 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:09:37,724 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:09:39,359 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:09:39,370 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:09:39,371 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:09:39,371 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:09:39,450 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:09:39,450 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1596 ms
+2021-09-28 23:09:40,006 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:09:40,027 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:09:40,041 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.225 seconds (JVM running for 3.815)
+2021-09-28 23:10:09,353 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:10:09,354 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:10:09,361 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 6 ms
+2021-09-28 23:10:09,400 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-1] inside test
+2021-09-28 23:11:01,768 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3791 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:11:01,771 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:11:03,432 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:11:03,448 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:11:03,449 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:11:03,449 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:11:03,533 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:11:03,534 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1634 ms
+2021-09-28 23:11:03,589 ERROR org.apache.juli.logging.DirectJDKLog [main] Failed to open access log file [/dev/access_log.2021-09-28.log] Note: running as user [karthikeyanc]
+java.io.FileNotFoundException: /dev/access_log.2021-09-28.log (Operation not permitted)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:291)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:234)
+	at org.apache.catalina.valves.AccessLogValve.open(AccessLogValve.java:651)
+	at org.apache.catalina.valves.AccessLogValve.startInternal(AccessLogValve.java:685)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardPipeline.startInternal(StandardPipeline.java:176)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:927)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:486)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:123)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:104)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:450)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:199)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:182)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:160)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:577)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.kc.logging.LoggingApplication.main(LoggingApplication.java:15)
+2021-09-28 23:11:04,193 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:11:04,214 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:11:04,228 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.185 seconds (JVM running for 3.764)
+2021-09-28 23:11:40,908 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3800 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:11:40,912 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:11:42,440 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:11:42,451 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:11:42,452 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:11:42,453 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:11:42,525 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:11:42,526 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1509 ms
+2021-09-28 23:11:43,107 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:11:43,144 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:11:43,157 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.062 seconds (JVM running for 3.636)
+2021-09-28 23:11:53,359 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:11:53,360 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:11:53,367 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 6 ms
+2021-09-28 23:11:53,400 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-2] inside test
+2021-09-28 23:18:07,943 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3864 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:18:07,946 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:18:09,501 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:18:09,515 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:18:09,516 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:18:09,516 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:18:09,639 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:18:09,640 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1558 ms
+2021-09-28 23:18:09,707 ERROR org.apache.juli.logging.DirectJDKLog [main] Failed to open access log file [/dev/stdout.2021-09-28.log] Note: running as user [karthikeyanc]
+java.io.FileNotFoundException: /dev/stdout.2021-09-28.log (Operation not permitted)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:291)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:234)
+	at org.apache.catalina.valves.AccessLogValve.open(AccessLogValve.java:651)
+	at org.apache.catalina.valves.AccessLogValve.startInternal(AccessLogValve.java:685)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardPipeline.startInternal(StandardPipeline.java:176)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:943)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:927)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:486)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:123)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:104)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:450)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:199)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:182)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:160)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:577)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.kc.logging.LoggingApplication.main(LoggingApplication.java:15)
+2021-09-28 23:18:10,165 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:18:10,180 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:18:10,200 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.121 seconds (JVM running for 3.704)
+2021-09-28 23:18:37,413 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3877 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:18:37,415 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:18:38,932 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:18:38,942 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:18:38,943 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:18:38,943 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:18:39,015 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:18:39,015 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1474 ms
+2021-09-28 23:18:39,578 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:18:39,596 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:18:39,612 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 2.895 seconds (JVM running for 3.494)
+2021-09-28 23:18:48,604 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:18:48,606 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:18:48,614 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 8 ms
+2021-09-28 23:18:48,647 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-1] inside test
+2021-09-28 23:43:14,443 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3988 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:43:14,446 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:43:15,954 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:43:15,964 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:43:15,965 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:43:15,965 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:43:16,040 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:43:16,041 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1478 ms
+2021-09-28 23:43:16,612 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:43:16,627 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:43:16,641 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.065 seconds (JVM running for 3.65)
+2021-09-28 23:43:19,989 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-8] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:43:19,991 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-8] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:43:19,996 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-8] Completed initialization in 4 ms
+2021-09-28 23:43:20,025 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-8] inside test
+2021-09-28 23:44:02,538 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 3995 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:44:02,540 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:44:04,025 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:44:04,034 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:44:04,035 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:44:04,035 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:44:04,110 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:44:04,110 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1475 ms
+2021-09-28 23:44:04,696 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:44:04,718 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:44:04,733 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 2.897 seconds (JVM running for 3.52)
+2021-09-28 23:44:09,714 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:44:09,716 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:44:09,722 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 5 ms
+2021-09-28 23:44:09,749 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-2] inside test
+2021-09-28 23:47:47,731 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-8] inside test
+2021-09-28 23:48:01,443 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 4027 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:48:01,445 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:48:02,997 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:48:03,005 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:48:03,006 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:48:03,006 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:48:03,078 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:48:03,078 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1518 ms
+2021-09-28 23:48:03,707 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:48:03,728 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:48:03,742 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.164 seconds (JVM running for 3.745)
+2021-09-28 23:48:16,159 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-6] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:48:16,160 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-6] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:48:16,167 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-6] Completed initialization in 4 ms
+2021-09-28 23:48:16,196 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-6] inside test
+2021-09-28 23:49:02,715 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-9] inside test
+2021-09-28 23:56:32,247 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 4156 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:56:32,250 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:56:33,864 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:56:33,874 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:56:33,875 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:56:33,875 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:56:33,957 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:56:33,957 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1582 ms
+2021-09-28 23:56:34,501 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:56:34,522 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:56:34,535 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.143 seconds (JVM running for 3.738)
+2021-09-28 23:56:37,249 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-6] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:56:37,250 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-6] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:56:37,257 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-6] Completed initialization in 6 ms
+2021-09-28 23:56:37,291 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-6] inside test
+2021-09-28 23:59:16,329 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingApplication using Java 16.0.1 on karthikeyans-MacBook-Air.local with PID 4182 (/Users/karthikeyanc/Documents/SRC/logging/target/classes started by karthikeyanc in /Users/karthikeyanc/Documents/SRC/logging)
+2021-09-28 23:59:16,332 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-09-28 23:59:17,836 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-09-28 23:59:17,845 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:59:17,846 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-09-28 23:59:17,846 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-09-28 23:59:17,926 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-09-28 23:59:17,926 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1472 ms
+2021-09-28 23:59:18,609 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-09-28 23:59:18,627 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-09-28 23:59:18,642 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingApplication in 3.098 seconds (JVM running for 3.695)
+2021-09-28 23:59:24,098 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-3] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-28 23:59:24,099 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-3] Initializing Servlet 'dispatcherServlet'
+2021-09-28 23:59:24,104 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-3] Completed initialization in 4 ms
+2021-09-28 23:59:24,131 INFO com.kc.logging.LoggingApplication [http-nio-8080-exec-3] inside test
